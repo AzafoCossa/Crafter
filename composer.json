@@ -1,10 +1,10 @@
 {
-  "name": "crafter/requests",
+  "name": "azafo/requests",
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Crafter": "src/"
+      "Azafo": "src/"
     },
     "exclude": [
       "tests/"

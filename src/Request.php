@@ -1,6 +1,6 @@
 <?php
 
-namespace Crafter;
+namespace Azafo;
 
 class Request{
     private $data = array();
