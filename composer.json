@@ -5,10 +5,12 @@
   "autoload": {
     "psr-4": {
       "Azafo\\": "src/"
-    },
-    "exclude": [
-      "tests/"
-    ]
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Azafo\\Tests\\": "tests/"
+    }
   },
   "authors": [
     {
