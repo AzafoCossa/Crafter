@@ -1,0 +1,21 @@
+{
+  "name": "crafter/requests",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Crafter": "src/"
+    },
+    "exclude": [
+      "tests/"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Azafo Alexandre Cossa",
+      "email": "azafoalexandre@outlook.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
